@@ -1,6 +1,4 @@
-![Screenshot 1](assets/screenshots/doctor_home.png)
-![Screenshot 2](assets/screenshots/analysis.png)
-![Screenshot 3](assets/screenshots/chatbot.png)
+![APPScreen]([assets/screenshots/doctor_home.png](https://github.com/nrebra/Skin-Disease-Diagnosis-AI-App/blob/2f9cd88480e29e47041573ab1fd652e1c05ed6a1/skindisease.png))
 
 # AI-Powered Skin Disease Detection & Doctor Consultation App
 
