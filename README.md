@@ -1,4 +1,5 @@
-![APPScreen]([assets/screenshots/doctor_home.png](https://github.com/nrebra/Skin-Disease-Diagnosis-AI-App/blob/2f9cd88480e29e47041573ab1fd652e1c05ed6a1/skindisease.png))
+![Optional Alt Text](https://github.com/nrebra/Skin-Disease-Diagnosis-AI-App/blob/d6827dbb074d16fa8c33ddc7bd9c8b09757ef8a4/skindisease.png?raw=tru)
+
 
 # AI-Powered Skin Disease Detection & Doctor Consultation App
 
