@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434333543254",
+    "project_id": "skincancer-54319",
+    "storage_bucket": "skincancer-54319.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434333543254:android:184e83f498cd4ea31244f7",
+        "android_client_info": {
+          "package_name": "com.example.skincancer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx_oo2Ju6fZeNF8zFcDg3htb8Ouj5twdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

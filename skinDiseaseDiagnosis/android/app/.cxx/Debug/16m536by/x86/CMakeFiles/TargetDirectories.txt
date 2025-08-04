@@ -1,0 +1,2 @@
+D:/newskin1/skinCancer/android/app/.cxx/Debug/16m536by/x86/CMakeFiles/edit_cache.dir
+D:/newskin1/skinCancer/android/app/.cxx/Debug/16m536by/x86/CMakeFiles/rebuild_cache.dir
